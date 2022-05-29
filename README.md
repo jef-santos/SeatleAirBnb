@@ -13,7 +13,7 @@ This project covers the following three questions using Seattle Airbnb data:
 
 ## Files Description
 There is a notebook available to address the questions above. This notebook can be visualzed via Jupyter Notebook.
-The input data are here to and cam be downloaded in Kaggle.
+The input data are available in archive.zip and can be donwloaded in Kaggle
 
 ## Results
 The main findings of the code can be found at the post available here.
