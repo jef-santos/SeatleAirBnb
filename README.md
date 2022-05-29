@@ -16,7 +16,7 @@ There is a notebook available to address the questions above. This notebook can 
 The input data are available in archive.zip and can be donwloaded in Kaggle
 
 ## Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https:www.google.com).
 
 ## Licensing, Authors, Acknowledgements
 Credit to Airbnb for providing the data. 
