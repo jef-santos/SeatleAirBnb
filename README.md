@@ -16,7 +16,7 @@ There is a notebook available to address the questions above. This notebook can 
 The input data are available in archive.zip and can be donwloaded in Kaggle
 
 ## Results
-The main findings of the code can be found at the post available [here]([https:www.google.com](https://medium.com/@jeffersondesouzasantos/tips-for-investing-in-an-airbnb-accommodation-in-seattle-3ee6a3c8d272)).
+The main findings of the code can be found at the post available [here](https:www.google.com](https://medium.com/@jeffersondesouzasantos/tips-for-investing-in-an-airbnb-accommodation-in-seattle-3ee6a3c8d272).
 
 ## Licensing, Authors, Acknowledgements
 Credit to Airbnb for providing the data. 
